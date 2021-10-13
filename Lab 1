@@ -1,1 +1,18 @@
- 
+ // CIS22A
+// LOKKAN CHENG
+// Lab Assignment 1
+//
+
+#include <iostream>     // needed to perform C++ I/O
+using namespace std;
+
+int main()
+
+{
+	cout << "My first creation and execution" << endl;
+
+	cout << "of a C++ program." << endl;
+	cin.get();
+	return 0;
+
+}
